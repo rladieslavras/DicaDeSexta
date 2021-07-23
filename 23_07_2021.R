@@ -1,4 +1,4 @@
-# Dica de Sexta RLadies Lavras (15/07/2021)
+# Dica de Sexta RLadies Lavras (23/07/2021)
 
 install.packages("batata")
 library(batata)
